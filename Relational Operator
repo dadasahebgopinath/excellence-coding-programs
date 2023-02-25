@@ -1,0 +1,17 @@
+Relational Operator
+
+there are > ,<,>=,<=
+
+1. if your balance is > 0 then you can do payment
+2.  mobile who has price <1000
+3. if your marks 65 >= then your eligibale  
+
+Hw 
+4. 
+
+Note -- this operator can be used on minimum two operand 
+
+you can apply this on any primitive data type 
+(int,short,byte,long...)
+
+// operator returns boolean data type 
